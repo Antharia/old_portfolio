@@ -26,11 +26,10 @@
         "url": "https://github.com/BlackrockDigital/startbootstrap-the-big-picture.git"
     },
     "dependencies": {
-        "bootstrap": "4.2.1",
-        "jquery": "3.3.1"
+        "jquery": "^3.4.0"
     },
     "devDependencies": {
-        "browser-sync": "2.26.3",
+        "browser-sync": "^2.26.5",
         "gulp": "4.0.0"
     }
 }
