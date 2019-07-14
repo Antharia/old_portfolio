@@ -1,31 +1,38 @@
 body {
     background-color: #444;
-    color: #fff;
-    font-family: Helvetica, Arial, sans-serif;
-    padding-left: 10%;
-    padding-right: 10%;
-    font-size: 0.9em;
-}
-
-h1, h2, h3 {
-    margin-left: -5%;
+    color: whitesmoke;
 }
 
 a {
-    color: #AAA;
     text-decoration: none;
+    color: gray;
 }
 
 a:hover {
-    /* text-decoration: underline; */
-    color: #fff;
+    color: whitesmoke;
 }
 
 ul {
-   list-style: none; 
+    list-style: none;
+}
+
+article {
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+h2, h3 {
+    margin-left: -5%;
 }
 
 footer {
-    position: absolute;
-    bottom: 1em;
+    margin-top: 3em;
+}
+
+img {
+    width: 50%;
+}
+
+section {
+    margin-bottom: 3em;
 }
