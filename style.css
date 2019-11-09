@@ -1,5 +1,5 @@
 body {
-    background-color: #444;
+    background-color: #1A1A1A;
     color: whitesmoke;
     font-size: 0.9em;
     font-family: 'Helvetica Neue', Lato, Noto, Roboto, sans-serif;
@@ -23,8 +23,17 @@ article {
     padding-right: 10%;
 }
 
-h2, h3 {
+h1 {
+	font-size: 3em;
+}
+
+h2 {
     margin-left: -7%;
+    font-size: 2em;
+}
+
+h3 {
+	font-size: 1.5em;
 }
 
 footer {
@@ -33,10 +42,15 @@ footer {
 }
 
 img, iframe {
-    max-width: 70%;
+    max-width: 90%;
     min-width: 300px;
+    margin-top: 4em;
+    margin-bottom: 4em;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 section {
-    margin-bottom: 3em;
+    margin-bottom: 4em;
 }
