@@ -2,7 +2,7 @@ body {
     background-color: #1A1A1A;
     color: whitesmoke;
     font-size: 2em;
-    font-family: 'Helvetica Neue', Lato, Noto, Roboto, sans-serif;
+    font-family: Roboto, 'Helvetica Neue', Lato, Noto, sans-serif;
 }
 
 a {
