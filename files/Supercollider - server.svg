@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <path d="M512,51.2C512,22.942 489.058,0 460.8,0L51.2,0C22.942,0 0,22.942 0,51.2L0,460.8C0,489.058 22.942,512 51.2,512L460.8,512C489.058,512 512,489.058 512,460.8L512,51.2Z" style="fill:rgb(26,26,26);"/>
+    <g id="Calque1">
+        <g transform="matrix(1,0,0,1,1.35447e-13,48)">
+            <path d="M256,384L416,304L416,112L256,192L256,384Z" style="fill:rgb(235,235,235);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,5.83977e-14,48)">
+            <path d="M96,112L256,192L256,384L96,304L96,112Z" style="fill:rgb(64,64,64);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,1.15241e-13,16)">
+            <path d="M240,232L240,392L112,328L112,168L240,232Z" style="fill:rgb(235,235,235);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,1.15241e-13,16)">
+            <path d="M224,368L224,240L128,192L128,320L224,368Z" style="fill:rgb(64,64,64);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,1.15241e-13,16)">
+            <path d="M144,312L208,344L208,248L144,216L144,312Z" style="fill:rgb(235,235,235);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,1.15241e-13,16)">
+            <path d="M192,320L192,256L160,240L160,304L192,320Z" style="fill:rgb(64,64,64);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,1.15241e-13,16)">
+            <path d="M160,208L144,216L144,312L208,344L224,336L224,368L128,320L128,192L160,208Z" style="fill:rgb(26,26,26);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,1.15241e-13,16)">
+            <path d="M160,240L160,304L192,320L192,256L160,240Z" style="fill:rgb(26,26,26);"/>
+        </g>
+    </g>
+    <g id="Calque2">
+        <g transform="matrix(1,0,0,1,1.15241e-13,16)">
+            <path d="M272,392L400,328L400,168L272,232L272,392Z" style="fill:rgb(26,26,26);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,1.15241e-13,16)">
+            <path d="M288,240L288,368L384,320L384,192L288,240Z" style="fill:white;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,1.15241e-13,16)">
+            <path d="M304,248L304,344L368,312L368,216L304,248Z" style="fill:rgb(26,26,26);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,1.15241e-13,16)">
+            <path d="M320,256L320,320L352,304L352,240L320,256Z" style="fill:rgb(235,235,235);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,1.15241e-13,16)">
+            <path d="M288,368L272,360L272,232L368,184L384,192L288,240L288,368Z" style="fill:rgb(64,64,64);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,1.15241e-13,16)">
+            <path d="M320,320L304,312L304,248L336,232L352,240L320,256L320,320Z" style="fill:rgb(64,64,64);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,1.15241e-13,16)">
+            <path d="M256,224L416,144L256,64L96,144L256,224Z" style="fill:rgb(64,64,64);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,1.15241e-13,16)">
+            <path d="M256,208L384,144L256,80L128,144L256,208" style="fill:rgb(26,26,26);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,1.15241e-13,16)">
+            <path d="M160,144L256,96L352,144L256,192L160,144Z" style="fill:rgb(64,64,64);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,1.15241e-13,16)">
+            <path d="M192,144L256,112L320,144L256,176L192,144Z" style="fill:rgb(26,26,26);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,1.15241e-13,16)">
+            <path d="M224,144L256,160L288,144L256,128L224,144Z" style="fill:rgb(64,64,64);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,1.15241e-13,16)">
+            <path d="M256,192L256,208L352,160L352,144L256,192Z" style="fill:rgb(235,235,235);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,1.15241e-13,16)">
+            <path d="M256,160L256,176L288,160L288,144L256,160Z" style="fill:rgb(235,235,235);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,-7.85816e-13,16)">
+            <path d="M112,168L128,160L96,144L96,336L256,416L256,384L240,392L112,328L112,168Z" style="fill:rgb(26,26,26);"/>
+        </g>
+    </g>
+</svg>
