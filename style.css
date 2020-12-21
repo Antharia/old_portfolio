@@ -1,7 +1,7 @@
 body {
     background-color: #1A1A1A;
     color: whitesmoke;
-    font-size: 2em;
+    font-size: 1em;
     font-family: Roboto, 'Helvetica Neue', Lato, Noto, sans-serif;
 }
 
@@ -24,16 +24,16 @@ article {
 }
 
 h1 {
-	font-size: 4em;
+	font-size: 3em;
 }
 
 h2 {
     margin-left: -8%;
-    font-size: 3em;
+    font-size: 2.3em;
 }
 
 h3 {
-	font-size: 2.5em;
+	font-size: 1.8em;
 }
 
 footer {
